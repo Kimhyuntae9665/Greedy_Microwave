@@ -8,6 +8,7 @@ public class Greedy_Microwave {
 
 	public static void main(String[] args) {
 		
+		
 		Scanner in = new Scanner(System.in);
 		
 		N = in.nextInt();
